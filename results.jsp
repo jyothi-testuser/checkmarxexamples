@@ -1,9 +1,6 @@
 <tabl>
   <th>
-    <td>
-      
-      
-      
-  </th>
+    <td>    
+       </th>
 </td>
 </table>
